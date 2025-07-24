@@ -40,6 +40,7 @@ def get_presentation_metadata(
 
     Notes:
     - Requires either the ID or name of an existing presentation.
+    - Hi this is Johns signature.
     """
     slides_service = get_slides_service()
     drive_service = get_drive_service()
